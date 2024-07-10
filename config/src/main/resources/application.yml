@@ -7,7 +7,7 @@ spring:
     config:
       server:
         git:
-          uri: ${GIT_URL:https://github.com:443/hiondal/subride-config.git}
+          uri: ${GIT_URL:https://github.com:443/cna-bootcamp/helloworld-config.git}
           username: ${GIT_USERNAME:hiondal}
           password: ${GIT_TOKEN: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}
           #password: ${GIT_PASSWORD:passw0rd}
