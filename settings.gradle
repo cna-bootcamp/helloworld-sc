@@ -1,4 +1,4 @@
-rootProject.name = 'sc'
+rootProject.name = 'hellowworld-sc'
 include 'config'
 include 'eureka'
 include 'scg'
